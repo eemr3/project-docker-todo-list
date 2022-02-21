@@ -34,9 +34,9 @@ Gerenciar Services , Network e Volumes a partir do Compose .
 
 ## Stack utilizada
 
-**Front-end:** React, Node, React Hooks, Context Api. (Já veio construido)
-**Back-end:** NodeJs, Express, (Já vaeio contruido).
-**Container:** Docker, Docker Compose 
+- **Front-end:** React, Node, React Hooks, Context Api. (Já veio construido)
+- **Back-end:** NodeJs, Express, (Já vaeio contruido).
+- **Container:** Docker, Docker Compose 
 ## Rodando localmente
 
 Clone o projeto
